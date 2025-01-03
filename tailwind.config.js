@@ -1,10 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [],
+  content: ["./index.html", "./src/**/*.{vue,js,ts}"],
   theme: {
     extend: {
       colors: {
-        'dodgeroll-gold': '#FFD700',
+        'dodgeroll-gold': '#F79F1A',
       },
     },
   },
