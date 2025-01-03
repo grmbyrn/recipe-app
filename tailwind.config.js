@@ -2,7 +2,11 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'dodgeroll-gold': '#FFD700',
+      },
+    },
   },
   plugins: [],
 }
