@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <header class="py-4 border-b">
+    <header class="py-4 px-4 border-b">
         <nav class="flex container items-center justify-center mx-auto">
             <NuxtLink to="/" class="flex gap-1 items-center">
                 <NuxtImg width="56px" densities="x1" class="w-14" src="/icon-green.png" format="webp" alt="" />

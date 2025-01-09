@@ -13,7 +13,7 @@ if (error.value) {
 </script>
 
 <template>
-    <div class="flex flex-col max-w-screen-lg container py-20">
+    <div class="flex flex-col justify-center mx-auto max-w-screen-lg container py-20 px-4">
         <!-- Header -->
         <div class="flex flex-col mb-6">
             <h2 class="text-5xl mb-4 font-semibold">{{ data?.name }}</h2>
